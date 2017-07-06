@@ -2,13 +2,11 @@
 
 In this Udacity project you help a "fictional" company with a new project and Jasmine testing. Their coders left the company in a hurry and now they need help with Jasmine testing a new feed reader project. You can find the original project at [https://github.com/udacity/frontend-nanodegree-feedreader](https://github.com/udacity/frontend-nanodegree-feedreader). This project is part of Udacity's [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001). 
 
-## Viewing the project
 
-You can find a demo of my project at
 
 ## Download the project
 
-* You can clone the repository at or
+* You can clone the repository at [https://github.com/Anskiere1974/JasmineFeedreader](https://github.com/Anskiere1974/JasmineFeedreader) or
 * Click the `Download Zip`Button
 * After downloading open `index.html` to view the project.
 
@@ -39,4 +37,3 @@ According to the Project Rubric I wrote the following tests:
 - [jasmine-jquery (GitHub)](https://github.com/velesin/jasmine-jquery)
 
   ​
-
